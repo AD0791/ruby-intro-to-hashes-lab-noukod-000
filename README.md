@@ -28,7 +28,7 @@
    of the exercise, your multidimensional monopoly hash should look like this:
 
 ```ruby
-monopoly =  {
+monopoly =  
   :railroads=> {}
 ```
 
